@@ -1,3 +1,1 @@
-# Comments
-
-Comments for [my blog](https://www.hohyeonmoon.com/blog/) using [Utterances](https://utteranc.es).
+This is a repository for [utterances](https://utteranc.es) comments in [the blog](https://www.hohyeonmoon.com/blog/).
