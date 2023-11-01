@@ -1,1 +1,1 @@
-This is a repository for [utterances](https://utteranc.es) comments in [the blog](https://www.hohyeonmoon.com/blog/).
+This is a repository for [giscus](https://giscus.app/ko) comments in [the blog](https://www.hohyeonmoon.com/blog/).
